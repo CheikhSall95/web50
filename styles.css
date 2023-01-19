@@ -1,0 +1,61 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+    }
+
+    .flex-container > div {
+    width: 500px;
+    height: 500px;
+    text-align: center;
+    }
+
+    #img-google {
+        width: 50%;
+        height: 50%;
+      }
+
+      #advanced {
+        margin-top: 30px;
+        margin-right: 0px;
+        margin-bottom: 100px;
+        margin-left: 80px;
+        font-size: 35px;
+        color: #CC0000;
+
+      }
+
+      #find {
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 80px;
+        font-size: 25px;
+      }
+
+      #find2 {
+        margin-top: 0px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 1080px;
+        font-size: 20px;
+        color: grey;
+      }
+
+      #left {
+        margin-left: 80px;
+      }
+
+
+      .right {;
+        color: grey;
+      }
+
+      .center-button{
+          margin: auto;
+      }
+
+      .div-magin{
+        margin-top: 30px
+    }
